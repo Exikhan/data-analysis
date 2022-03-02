@@ -1,10 +1,10 @@
 Hey there,
 
-There has been a new note on issue %{ISSUE_ID}. This means we are working on your requirement, and it is moving forward to the solution. Sometimes the note is a question directed to you, and some other it is only a comment that we left for our better understanding of the problem. However, we encourage you to read it.
+There has been a new note on issue %{ISSUE_ID}. This means we are working on your requirement, and it is moving forward to the solution. Sometimes the note is a question directed to you, and some others it is only a comment that we left for our better understanding of the problem. However, we encourage you to read it through.
 
 The note is:
 
-%{NOTE_TEXT}
+> **%{NOTE_TEXT}**
 
 In case this is a question to you, it's important that you answer it as fast as possible, so we can work forward on your issue.
 
