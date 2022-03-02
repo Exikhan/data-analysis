@@ -8,6 +8,8 @@ The note is:
 
 In case this is a question to you, it's important that you answer it as fast as possible, so we can work forward on your issue.
 
+---
+
 Your opinion about our service is super important for us. When ever you feel like it, please respond the following survey:
 
 *Logic TMS team solved my issue on time and made it easy for me to work better.*
