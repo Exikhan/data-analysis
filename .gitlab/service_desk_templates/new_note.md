@@ -4,7 +4,7 @@ There has been a new note on issue %{ISSUE_ID}. This means we are working on you
 
 The note is:
 
-> **%{NOTE_TEXT}**
+**%{NOTE_TEXT}**
 
 In case this is a question to you, it's important that you answer it as fast as possible, so we can work forward on your issue.
 
